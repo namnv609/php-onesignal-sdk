@@ -226,6 +226,8 @@ class Notification
                 'isWP_WNS' => 'bool',
                 'isAdm' => 'bool',
                 'isChrome' => 'bool',
+                'android_channel_id' => 'string',
+                'huawei_channel_id' => 'string',
             ],
         ];
     }
